@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishal-thakur22
-- 🌱 I’m currently learning MERN STACK
+- 🌱 completed training in MERN STACK
 - 📫 How to reach me ...
 - Insta: Vishalthakur2_2
 - Whats app:+91 9015239628
